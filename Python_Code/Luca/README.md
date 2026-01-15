@@ -15,7 +15,7 @@ Der Proxy verändert **keine Daten**, sondern verlängert lediglich den Übertra
 
 ## Datenfluss
 
-![img.png](Datenfluss.png)
+![img.png](../../Final/Datenfluss.png)
 
 ---
 
