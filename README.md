@@ -2,7 +2,8 @@
 Dies ist das neue GitHub Repository für die Projektarbeit UDP Ping Pong im Fach Netzwerktechnik
 - Schule:    Teko
 - Klassen:   TIP-24-T-a, TIA-24-T-a
-- Datum:     08.01.2026
+- Abgabe-Datum:  17.01.2026
+- Abgabe-Ordner:  Final
 - Fach:      Netzwerktechnik
 - Dozent:    Oliver Büchel
 - Studentet: Luca Steiner, Christian Abbühl, Nicolas Wirth, Yves Weber
